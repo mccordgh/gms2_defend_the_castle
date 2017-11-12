@@ -1,0 +1,1 @@
+speed_ = script_approach(speed_, 0, friction_);
